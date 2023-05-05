@@ -1,4 +1,4 @@
-edad(ano),sexo,altura(m),masa(kg),P_a_sistolica,P_a_diastolica,colesterol,glucosa,fuma,alcohol,actividad_fisica,hipertension,
+edad(ano),sexo,altura(m),masa(kg),P_a_sistolica(mmhg),P_a_diastolica(mmhg),colesterol,glucosa,fuma,alcohol,actividad_fisica,hipertension,
 50,masculino,1.68,62,110,80,1,1,no,no,1,no,
 55,femenino,1.56,85,140,90,3,1,no,no,1,si,
 52,femenino,1.65,64,130,70,3,1,no,no,0,si,
